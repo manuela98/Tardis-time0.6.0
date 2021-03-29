@@ -30,7 +30,7 @@ pexpect==4.0.1            # via ipython
 pickleshare==0.5          # via ipython
 pip-tools==1.3.0
 ptyprocess==0.5           # via pexpect
-pygments==2.0.2           # via sphinx
+pygments==2.7.4           # via sphinx
 pylint==1.5.1
 pytz==2015.7              # via babel
 simplegeneric==0.8.1      # via ipython
