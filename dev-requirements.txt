@@ -17,7 +17,7 @@ first==2.0.1              # via pip-tools
 funcsigs==0.4             # via mock
 gnureadline==6.3.3        # via ipython
 ipython-genutils==0.1.0   # via traitlets
-ipython==4.0.1
+ipython==7.16.3
 jinja2==2.8               # via sphinx
 lazy-object-proxy==1.2.1  # via astroid
 markupsafe==0.23          # via jinja2
